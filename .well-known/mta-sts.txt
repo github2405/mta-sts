@@ -1,9 +1,1 @@
-version: STSv1
-mode: testing
-mx: aspmx.l.google.com
-mx: alt1.aspmx.l.google.com
-mx: alt2.aspmx.l.google.com
-mx: alt3.aspmx.l.google.com
-mx: alt4.aspmx.l.google.com
-max_age: 86400
-\r\n
+version: STSv1\r\nmode: testing\r\nmx: aspmx.l.google.com\r\nmx: alt1.aspmx.l.google.com\r\nmx: alt2.aspmx.l.google.com\r\nmx: alt3.aspmx.l.google.com\r\nmx: alt4.aspmx.l.google.com\r\nmax_age: 86400\r\n
